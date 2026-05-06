@@ -2,6 +2,7 @@ MR-ZAHOOR{AHMED}|•|✓10359359 Z
 MR-ZAHOOR{AHMED}|•|✓10250250 Z
 MR-ZAHOOR{AHMED}|•|✓10367367 shaze
 MR-ZAHOOR{AHMED}|•|✓10197197 moosa
+MR-ZAHOOR{AHMED}|•|✓10227227 mir 
 MR-ZAHOOR{AHMED}|•|✓10353353 month approval 10 may expires key
 MR-ZAHOOR{AHMED}|•|✓10311311 month approval 17 may expired key
 MR-ZAHOOR{AHMED}|•|✓10176176 month approval 18 may expired key
@@ -9,7 +10,4 @@ MR-ZAHOOR{AHMED}|•|✓10249249 month approval 20 may expired key
 MR-ZAHOOR{AHMED}|•|✓10361361 month approval 20 may expired key
 MR-ZAHOOR{AHMED}|•|✓10255255 month approval 20 may expired key
 MR-ZAHOOR{AHMED}|•|✓10302302 15 day approval 10 may expired key
-MR-ZAHOOR{AHMED}|•|✓10178178 7 day approval 4 may expired key
-MR-ZAHOOR{AHMED}|•|✓10323323 tril key
-MR-ZAHOOR{AHMED}|•|✓10349349 tril 
 MR-ZAHOOR{AHMED}|•|✓10495495 khan key
